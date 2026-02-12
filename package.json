@@ -21,12 +21,14 @@
   },
   "homepage": "https://github.com/Manash2005/spotify_API#readme",
   "dependencies": {
+    "@imagekit/nodejs": "^7.3.0",
     "bcryptjs": "^3.0.3",
     "colors": "^1.4.0",
     "cookie-parser": "^1.4.7",
     "dotenv": "^17.2.4",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.2.1"
+    "mongoose": "^9.2.1",
+    "multer": "^2.0.2"
   }
 }
